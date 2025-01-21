@@ -4,7 +4,6 @@
 
 # Proje Görüntleri
   <div alling = center>
-    <img height="180em" src="https://github.com/user-attachments/assets/93a61b56-8d99-4e91-96fc-b5b2ab757fc8" alt=ilkerylmaz />
-![Ekran görüntüsü 2025-01-21 205045](https://github.com/user-attachments/assets/93a61b56-8d99-4e91-96fc-b5b2ab757fc8)
-![Ekran görüntüsü 2025-01-21 205055](https://github.com/user-attachments/assets/bbac8242-70ad-4aa2-b777-f989a4e9ecd8)
+    <img height="480em" width="200em" src="https://github.com/user-attachments/assets/93a61b56-8d99-4e91-96fc-b5b2ab757fc8" alt=ilkerylmaz />
+    <img height="480em" width="500em" src="https://github.com/user-attachments/assets/bbac8242-70ad-4aa2-b777-f989a4e9ecd8" alt=ilkerylmaz />
   </div>

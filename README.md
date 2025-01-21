@@ -3,9 +3,8 @@
 Şehirin ismine göre çıktı veren bir website, apiyi https://openweathermap.org adresinden çektim biraz yanlış sonuç veriyor...
 
 # Proje Görüntleri
-  <div style={width="100px", height="200px"}>
+  <div alling = center>
+    <img height="180em" src="https://github.com/user-attachments/assets/93a61b56-8d99-4e91-96fc-b5b2ab757fc8" alt=ilkerylmaz />
 ![Ekran görüntüsü 2025-01-21 205045](https://github.com/user-attachments/assets/93a61b56-8d99-4e91-96fc-b5b2ab757fc8)
-  </div>
-  <div>
 ![Ekran görüntüsü 2025-01-21 205055](https://github.com/user-attachments/assets/bbac8242-70ad-4aa2-b777-f989a4e9ecd8)
   </div>
